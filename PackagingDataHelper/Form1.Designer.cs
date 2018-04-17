@@ -86,6 +86,7 @@
             this.toolStripImport036.Name = "toolStripImport036";
             this.toolStripImport036.Size = new System.Drawing.Size(71, 22);
             this.toolStripImport036.Text = "&Import .036";
+            this.toolStripImport036.Click += new System.EventHandler(this.toolStripImport036_Click);
             // 
             // toolStripSaveProject
             // 
